@@ -9,5 +9,5 @@ This is a simple search engine backend that allows you to add, search, and view 
 
 ## Setup:
 1. Clone this repo
-2. Run `npm install` to install dependencies
+2. Run `npm install express body-parser` to install dependencies
 3. Start the server with `node app.js`
